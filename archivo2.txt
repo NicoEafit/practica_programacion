@@ -1,2 +1,4 @@
 otro chanchito feliz
 otro chanchito feliz
+este es la rama alternativa a la rama prinicpal
+me encuentro practicando como moverme entre ramas este mensaje solo deberia salir en la rama b
